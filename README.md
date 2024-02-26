@@ -15,4 +15,6 @@
 
 ### Verificação de Logs de Autenticação
 link
-### 
+### Verificação de Atualizações do Sistema
+link
+###
