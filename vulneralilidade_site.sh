@@ -1,4 +1,5 @@
-
+# Usando ferramentas como o `curl`, você pode criar um script que verifica automaticamente a
+# presença de vulnerabilidades conhecidas em sites.
 
 
 #!/bin/bash
