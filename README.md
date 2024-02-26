@@ -34,7 +34,8 @@ link
 link
 ### Script de Detecção de Ataques de Força Bruta
 link
-### Script de Verificação de Vulnerabilidades em Sistemas:
+### Script de Verificação de Vulnerabilidades em Sistemas
 link
-### Script de Verificação de Vulnerabilidades em Sistemas:
+### Script de Monitoramento de Arquivos Críticos
 link
+### 
