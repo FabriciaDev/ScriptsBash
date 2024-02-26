@@ -13,3 +13,6 @@
 * Argumentos da Linha de Comando: Variáveis especiais como $1, $ 2
 * Interpolação de Variáveis: Variáveis podem ser usadas dentro de strings com aspas duplas para interpolação.
 
+### Verificação de Logs de Autenticação
+link
+### 
