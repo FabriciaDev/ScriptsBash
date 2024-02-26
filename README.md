@@ -23,4 +23,6 @@ link
 link
 ### Armazenar comando em variável com Backticks
 link
-### 
+### Execução de Comando Externo em Script
+link
+
