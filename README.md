@@ -21,4 +21,6 @@ link
 link
 ### Armazenar Comando em variável com `$()`
 link
-
+### Armazenar comando em variável com Backticks
+link
+### 
