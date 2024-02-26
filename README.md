@@ -36,15 +36,5 @@ link
 link
 ### Script de Verificação de Vulnerabilidades em Sistemas:
 link
-### script que verifica sistemas em busca de vulnerabilidades conhecidas, usando bancos de dados de CVEs (Vulnerabilidades e Exposições Comuns).
+### Script de Verificação de Vulnerabilidades em Sistemas:
 
-#!/bin/bash
-sistema="Ubuntu"
-versao="20.04"
-vulnerabilidade=$(grep "$sistema $versao" cve_database.txt)
-if [ -n "$vulnerabilidade" ]; then
-echo "Vulnerabilidade conhecida encontrada no sistema
-$sistema $versao."
-else
-echo "Nenhuma vulnerabilidade conhecida encontrada."
-fi
