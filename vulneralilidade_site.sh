@@ -1,3 +1,6 @@
+
+
+
 #!/bin/bash
 site="https://www.google.com"
 vulnerabilidade="CVE-2014-6271"
