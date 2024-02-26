@@ -1,6 +1,5 @@
 # ScriptsBash
 ## Scripts
-
 ### Noções da Linguagem Bash:
 * Comentários: Linhas começando com # são comentários e são ignorados pelo interpretador.
 * Variáveis: Variáveis são usadas para armazenar valores. Exemplo: nome=“Usuário”
