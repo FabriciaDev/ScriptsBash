@@ -19,3 +19,4 @@ link
 link
 ### Verificação de Vulnerabilidades em Sites
 link
+### Substituição de Comando com `$()`:
