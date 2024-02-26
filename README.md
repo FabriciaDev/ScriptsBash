@@ -19,24 +19,24 @@ https://github.com/FabriciaDev/ScriptsBash/blob/main/atualiza_sistema.sh
 ### Veificação de Vulnerabilidades em Sites
 https://github.com/FabriciaDev/ScriptsBash/blob/main/vulneralilidade_site.sh
 ### Armazenar Comando em variável com `$()`
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/variavel.sh
 ### Armazenar comando em variável com Backticks
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/backticks.sh
 ### Script espaço em disco
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/espaco_disco.sh
 ### Scripts para Operações de Arquivo, Diretório e Execução de Comandos
-link
-link2
-link3
+https://github.com/FabriciaDev/ScriptsBash/blob/main/opera_arqui_dir.sh
+https://github.com/FabriciaDev/ScriptsBash/blob/main/opera_arq_dir2.sh
+https://github.com/FabriciaDev/ScriptsBash/blob/main/opera_arq_dir3.sh
 ### Script de Detecção de Portas Abertas
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/detc_port_open.sh
 ### Script de Análise de Logs de Autenticação
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/analis_log_autent.sh
 ### Script de Detecção de Ataques de Força Bruta
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/detec_brute_force.sh
 ### Script de Verificação de Vulnerabilidades em Sistemas
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/vulneralilidade_site.sh
 ### Script de Monitoramento de Arquivos Críticos
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/monitora_arq_critc.sh
 ### Script de Análise Forense para Coleta de Evidências
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/analis_forense.sh
