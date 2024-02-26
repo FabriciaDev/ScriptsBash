@@ -25,4 +25,5 @@ link
 link
 ### Script espaço em disco
 link
-### 
+### Scripts para Operações de Arquivo, Diretório e Execução de Comandos
+link
