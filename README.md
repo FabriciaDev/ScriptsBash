@@ -19,4 +19,6 @@ link
 link
 ### Verificação de Vulnerabilidades em Sites
 link
-### Substituição de Comando com `$()`:
+### Armazenar Comando em variável com `$()`
+link
+
