@@ -33,3 +33,6 @@ link
 ### Script de Análise de Logs de Autenticação
 link
 ### Script de Detecção de Ataques de Força Bruta
+link
+### Script de Verificação de Vulnerabilidades em Sistemas:
+link
