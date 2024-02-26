@@ -13,11 +13,11 @@
 * Interpolação de Variáveis: Variáveis podem ser usadas dentro de strings com aspas duplas para interpolação.
 
 ### Verificação de Logs de Autenticação
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/log_autenticacao.sh
 ### Verificação de Atualizações do Sistema
-link
-### Verificação de Vulnerabilidades em Sites
-link
+https://github.com/FabriciaDev/ScriptsBash/blob/main/atualiza_sistema.sh
+### Veificação de Vulnerabilidades em Sites
+https://github.com/FabriciaDev/ScriptsBash/blob/main/vulneralilidade_site.sh
 ### Armazenar Comando em variável com `$()`
 link
 ### Armazenar comando em variável com Backticks
