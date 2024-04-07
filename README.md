@@ -42,4 +42,6 @@ https://github.com/FabriciaDev/ScriptsBash/blob/main/monitora_arq_critc.sh
 https://github.com/FabriciaDev/ScriptsBash/blob/main/analis_forense.sh
 ### Script para a verifica uma possível vulnerabilidade relacionada à biblioteca liblzma usada pelo sshd (o daemon do servidor SSH).
 https://github.com/FabriciaDev/ScriptsBash/blob/main/liblzma_vulnera.sh
+#### descrição da vulnerabilidade:
+https://github.com/FabriciaDev/ScriptsBash/blob/main/liblzma.md
 
